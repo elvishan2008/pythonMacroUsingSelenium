@@ -56,7 +56,7 @@ This project aims to execute macros on various websites using Selenium.
 
 ---
 
-##  Key Features
+## 📌 Key Features
 
 1. **Reaction Speed Test Macro (`run_ex1` function)**
     - Connect to a specific webpage and perform a test by quickly clicking a button.
