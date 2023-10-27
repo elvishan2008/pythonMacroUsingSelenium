@@ -6,7 +6,7 @@
 ---
 
 [//]: # (## 한국어 🇰🇷)
-## 한국어 🇰🇷
+## 한국어
 
 이 프로젝트는 Selenium을 활용하여 다양한 웹사이트의 매크로를 실행하는 것을 목표로 합니다.
 
@@ -62,7 +62,7 @@ pip install selenium browsermobproxy requests webdriver-manager
 ---
 
 [//]: # (## english-🇺🇸)
-## English 🇺🇸
+## English
 
 This project aims to execute macros on various websites using Selenium.
 
