@@ -50,3 +50,52 @@ pip install selenium browsermobproxy requests webdriver-manager
 3. 주석 처리된 `run_ex1`, `run_ex2` 또는 `run_main` 함수 중 원하는 함수를 주석 해제하고 실행합니다.
 
 
+# Macro Project Using Selenium
+
+This project aims to execute macros on various websites using Selenium.
+
+---
+
+##  Key Features
+
+1. **Reaction Speed Test Macro (`run_ex1` function)**
+    - Connect to a specific webpage and perform a test by quickly clicking a button.
+
+2. **Sudoku Auto-Solving Macro (`run_ex2` function)**
+    - Performs a test that automatically solves Sudoku puzzles.
+    - The problem and solution data are obtained through an API.
+
+3. **Main Macro Execution (`run_main` function)**
+    - Automatically books reservations on Naver within a web page.
+
+---
+
+## 🛠 Required Libraries and Tools
+
+Before using this project, you need the following tools and libraries:
+
+- Python 3
+- Chrome Browser
+- ChromeDriver (compatible with your Chrome Browser version)
+- browsermob-proxy
+- Necessary Python libraries (e.g., selenium, browsermobproxy, requests, etc.)
+
+---
+
+### 🔧 Installing ChromeDriver
+
+1. First, check your Chrome browser version by visiting `chrome://version`.
+2. Download the appropriate version of ChromeDriver from the [ChromeDriver download page](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+3. Extract the downloaded file to a suitable location (e.g., `C:/Program Files/Google/Chrome/Application/`).
+
+### 🔧 Installing browsermob-proxy
+
+1. Download the latest version of browsermob-proxy from the [official download page](https://github.com/lightbody/browsermob-proxy/releases).
+2. Extract the downloaded file to a suitable location (e.g., `C:/Program Files/browsermob-proxy-2.1.4/`).
+
+### 🔧 Installing Python Libraries
+
+Install the required Python libraries with the following command:
+
+```bash
+pip install selenium browsermobproxy requests webdriver-manager
