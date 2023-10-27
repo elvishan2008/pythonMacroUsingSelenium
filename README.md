@@ -1,7 +1,7 @@
 # Macro Project Using Selenium
 
-- [한국어](#한국어-🇰🇷)
-- [English](#english-🇺🇸)
+- [한국어](#한국어)
+- [English](#english)
 
 ---
 
