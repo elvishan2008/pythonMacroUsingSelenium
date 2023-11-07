@@ -1,7 +1,5 @@
 # Macro Project Using Selenium
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yyhmpm2qd6Q?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - [한국어](#한국어)
 - [English](#english)
 
